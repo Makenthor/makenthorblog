@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New on Makenthor</title>
+    <link>http://localhost:53945/tags/new/</link>
+    <description>Recent content in New on Makenthor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2025 Makenthiran. All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:53945/tags/new/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My first Blog Post</title>
+      <link>http://localhost:53945/posts/first/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:53945/posts/first/</guid>
+      <description>Learn more about me and why I am starting this blog.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

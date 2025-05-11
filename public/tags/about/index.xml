@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Makenthor Lab</title>
+    <link>https://example.org/tags/about/</link>
+    <description>Recent content in About on Makenthor Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2025 Makenthiran. All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My first Blog Post</title>
+      <link>https://example.org/posts/2025_05_06/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/2025_05_06/</guid>
+      <description>Learn more about me and why I am starting this blog.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/2025_05_06/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
